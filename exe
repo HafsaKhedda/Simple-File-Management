@@ -1,0 +1,2 @@
+#!/bin/bash
+cp file1 file2 file3 /backup | ls -l file1 file2 file3 > backup 
